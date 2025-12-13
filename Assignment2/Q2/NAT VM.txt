@@ -1,0 +1,1 @@
+Yes, NAT VMs can communicate with each other only if they are connected to the same NAT Network in default NAT mode they cannot communicate because each VM is isolated behind its own virtual NAT router.

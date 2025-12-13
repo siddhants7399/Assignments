@@ -1,0 +1,1 @@
+NAT and Host-Only communication does not work because they are separate, isolated virtual networks with no routing or bridging between them.

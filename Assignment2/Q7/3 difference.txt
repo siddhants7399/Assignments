@@ -1,0 +1,3 @@
+1.In Ubuntu 'ip a' is installed by default and recommended, while 'ifconfig' is not installed by default and is deprecated.
+2.'ip a' supports modern networking features (IPv6,VLANs,multiple IPs), whereas 'ifconfig' has limited support.
+3.Ubuntu actively maintains 'ip a' (iproute2), but 'ifconfig'is legacy and kept only for compatibility.
